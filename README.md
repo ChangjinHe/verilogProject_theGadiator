@@ -11,6 +11,8 @@ Project Description:
   To win this game, player needs to defeat his competitor. Each player has 3 hp, when player loses all his hp, he is defeated.
 
   There are totally 4 movements for players to select, charge, attack, defense and dodge, players can select one movement in each round.
+  
+  Following is the rules:
 
 	  Initial state: Both players have 3 hp and 1 ENG. (ENG stands for energy)
 	
