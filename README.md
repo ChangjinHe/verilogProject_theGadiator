@@ -27,9 +27,9 @@ Project Description:
 		         avoid any attacks
 
 	  "offest damage": same kind of attack will offset damage.
-			               when ultimate versus normal attack, ultimate does 1 damage and normal attack does 0 damage.		
+			   when ultimate versus normal attack, ultimate does 1 damage and normal attack does 0 damage.		
 	
-	  "Invalid movements": 1. overcharge: when player's energy reaches maximum, even if player select the charge movement, it won't exceed                            the maximum.
-			                   2. non-charge: When player's energy is empty, if player select attack or dodge, he will automatically change to                            charge movement.
+	  "Invalid movements": 1. overcharge: when player's energy reaches maximum, even if player select the charge movement, it won't exceed the maximum.
+			       2. non-charge: When player's energy is empty, if player select attack or dodge, he will automatically change to charge movement.
  
-	  10s countdown timer: timer starts when one player selected his movement, the other must select his in 10 second, otherwise he will                              repeat his movement last round.
+	  10s countdown timer: timer starts when one player selected his movement, the other must select his in 10 second, otherwise he will repeat his movement last round.
