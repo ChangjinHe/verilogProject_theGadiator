@@ -17,14 +17,14 @@ Project Description:
 	  Charge: When player charges, ENG adds 1.
     
 	  Attack: (i) Normal attak   : costs 1 ENG, does 1 damage
-		  		                       upgrades to ultimate when play has more than one ENG
-		        (ii)Ultimate attack: costs 2 ENG, does 2 damages
+		  		      upgrades to ultimate when play has more than one ENG
+		  (ii)Ultimate attack: costs 2 ENG, does 2 damages
             
 	  Defense: does not cost ENG
-		         generated a shield that absorbs 1 damage in current round
+		   generated a shield that absorbs 1 damage in current round
              
-	  Dodge:	 cost 1 ENG
-		         avoid any attacks
+	  Dodge:   cost 1 ENG
+		   avoid any attacks
 
 	  "offest damage": same kind of attack will offset damage.
 			   when ultimate versus normal attack, ultimate does 1 damage and normal attack does 0 damage.		
